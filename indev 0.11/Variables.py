@@ -1,0 +1,9 @@
+size = 1280, 720
+fps = 60
+velocity = 4
+screen_start_x = 98
+screen_start_y = 160
+sprite_now = 0
+screen_end_x = screen_start_x + size[0]
+screen_end_y = screen_start_y + size[1]
+running = True
