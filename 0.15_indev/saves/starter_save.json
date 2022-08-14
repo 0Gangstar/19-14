@@ -1,0 +1,12 @@
+{
+    "x": 960,
+    "y": 508,
+    "source": null,
+    "texture_pos": [
+        0.0,
+        1.0,
+        0.25,
+        0.8
+    ],
+    "location": "maps/test.tmx"
+}

@@ -1,0 +1,2 @@
+chest 1 apple
+change 26 12 to 14 empty_chest

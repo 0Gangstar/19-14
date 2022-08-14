@@ -1,0 +1,28 @@
+{
+    "rect": [
+        539,
+        638,
+        68,
+        120
+    ],
+    "hit_polygon_rect": [
+        539,
+        746,
+        68,
+        12
+    ],
+    "interaction_box": [
+        502,
+        752,
+        36,
+        12
+    ],
+    "source": null,
+    "texture_pos": [
+        0.75,
+        1.0,
+        1.0,
+        0.8
+    ],
+    "location": "maps/test.tmx"
+}
